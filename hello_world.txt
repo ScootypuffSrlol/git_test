@@ -1,0 +1,2 @@
+Testing staging additional files
+2 lines of text!
